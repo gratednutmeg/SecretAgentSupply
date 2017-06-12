@@ -1,0 +1,21 @@
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+  color: pink;
+  /*todo change font color todo*/
+}
+.logo {
+  background-color: black;
+
+}
+
+
+/*Tablet Styling*/
+@media screen only and (max-width: 1024px) and (orientation: landscape) {
+
+}
+
+/*Phone/Small Screen Styling*/
+@media screen only and (max-width: 470px) {
+
+}
