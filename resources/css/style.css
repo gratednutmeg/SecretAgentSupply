@@ -155,7 +155,8 @@ footer {
 }
 
 /*Tablet Styling*/
-@media screen only and (max-width: 1024px) and (orientation: landscape) {
+@media screen only and (max-width: 1024px) and (orientation: portrait) {
+
 
 }
 
